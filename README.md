@@ -20,3 +20,10 @@ Imagine you have a robot car controlled by a remote. The remote (controller) and
 So, when you press a button on the remote (SPI Write), it sends a message to the car (SPI Read). The car then understands the message and moves accordingly (SPI Run).
 
 I hope this helps you understand! Let me know if you have more questions!
+
+## Pin Connection 
+ESPDevKitV1   BME688 
+D5          -   CS
+D18         -   SCK
+D19         -   SD0
+D23         -   SDI
