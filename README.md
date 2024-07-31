@@ -23,7 +23,7 @@ I hope this helps you understand! Let me know if you have more questions!
 
 ## Pin Connection 
 ESPDevKitV1   BME688 
-D5          -   CS
-D18         -   SCK
-D19         -   SD0
-D23         -   SDI
+- D5          -   CS
+- D18         -   SCK
+- D19         -   SD0
+- D23         -   SDI
